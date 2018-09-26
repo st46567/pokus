@@ -1,2 +1,1 @@
-novy radek
-dalsi
+Bug fix 
